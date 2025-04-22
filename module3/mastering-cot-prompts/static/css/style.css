@@ -1,0 +1,78 @@
+/* Main styling for Chain-of-Thought Explorer */
+
+.main .block-container {
+    padding-top: 2rem;
+}
+
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 50px;
+    white-space: pre-wrap;
+    background-color: #f0f2f6;
+    border-radius: 4px 4px 0 0;
+    gap: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #ffffff;
+    border-bottom: 2px solid #4e8bd2;
+}
+
+h1, h2, h3 {
+    padding-top: 1rem;
+}
+
+.success-box {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #d1e7dd;
+    color: #0a3622;
+}
+
+.warning-box {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #fff3cd;
+    color: #664d03;
+}
+
+/* Additional styling for components */
+.st-emotion-cache-1pp0tpx {
+    margin-bottom: 1.5rem;
+}
+
+.prompt-preview {
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    font-family: monospace;
+}
+
+.comparison-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.sidebar-heading {
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.evaluation-metric {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    color: #888;
+    font-size: 0.8rem;
+    margin-top: 2rem;
+}
