@@ -1,0 +1,1 @@
+Vector databases store embeddings for efficient similarity search. Popular vector databases include FAISS, Pinecone, Weaviate, and Milvus. They implement approximate nearest neighbor algorithms like HNSW and IVF. Filtering capabilities allow combining metadata with vector search.

@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) combines retrieval systems with text generation. It allows language models to access external knowledge. RAG helps reduce hallucinations by grounding responses in retrieved facts. The architecture includes embedding generation, vector search, and integration with LLMs.
