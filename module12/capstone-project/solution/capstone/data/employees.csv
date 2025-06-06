@@ -1,0 +1,22 @@
+employee_id,name,department,role,start_date
+E001,Alice Johnson,HR,HR Specialist,2024-01-15
+E002,Jane Doe,HR,HR Specialist,2024-04-22
+E003,Carlos Rodriguez,Marketing,Marketing Specialist,2024-05-10
+E004,Dana Peterson,Engineering,QA Engineer,2024-02-28
+E005,Evelyn Lee,Product,Product Manager,2023-08-12
+E006,Frank Miller,Engineering,DevOps Engineer,2025-01-31
+E007,Grace Kim,Engineering,Data Scientist,2024-06-01
+E008,Henry Nguyen,Customer Support,Support Specialist,2024-09-20
+E009,Isabella Garcia,Marketing,Content Creator,2025-01-31
+E010,Jason Brown,Engineering,Software Engineer,2024-07-15
+E011,Jeff Scott,Engineering,AI Engineer,2025-04-29
+E012,Michael Johnson,Engineering,Data Engineer,2025-04-29
+E013,Emily Williams,Marketing,Social Media Campaign Manager,2025-04-29
+E014,Daniel Brown,IT,Cybersecurity Specialist,2025-04-29
+E015,Sophia Martinez,HR,Training & Development Manager,2025-04-29
+E016,Alexander Davis,Finance,Senior Accountant,2025-04-29
+E017,Olivia Wilson,Customer Support,Client Success Representative,2025-04-29
+E018,Employee,Product,Hardware Designer,2025-04-29
+E019,Ava Thomas,Legal,General Counsel,2025-04-29
+E020,James Anderson,Sales,Client Acquisition Representative,2025-04-29
+E021,Emma Jackson,Research,Department Manager,2025-04-29

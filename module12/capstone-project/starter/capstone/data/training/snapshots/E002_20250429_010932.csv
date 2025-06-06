@@ -1,0 +1,6 @@
+employee_id,employee_name,course_id,course_name,status,enrolled_date,completion_date,due_date
+E002,Jane Doe,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-10-15,2024-11-05,2025-11-05
+E002,Jane Doe,HR-002,Preventing Harassment & Discrimination,Not Started,2024-11-05,,2025-11-05
+E002,Jane Doe,SEC-010,Cyber-Security Awareness Basics,In Progress,2024-11-01,,2025-05-01
+E002,Jane Doe,SEC-230,Secure Coding for Python & TypeScript,Completed,2025-01-05,2025-01-20,
+E002,Jane Doe,LEAD-101,Technical Leadership Essentials,Not Started,2025-02-01,,

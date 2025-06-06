@@ -1,0 +1,80 @@
+employee_id,employee_name,course_id,course_name,status,enrolled_date,completion_date,due_date
+E001,Alice Johnson,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-05-10,2024-06-10,2025-06-10
+E001,Alice Johnson,HR-002,Preventing Harassment & Discrimination,Completed,2024-05-10,2024-06-10,2025-06-10
+E001,Alice Johnson,SEC-010,Cyber-Security Awareness Basics,Completed,2025-01-02,2025-01-21,2025-08-01
+E001,Alice Johnson,AI-201,Practical Prompt Engineering,Completed,2025-02-15,2025-03-15,
+E001,Alice Johnson,DS-310,Vector Databases & RAG Patterns,In Progress,2025-04-01,,
+E002,Jane Doe,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-10-15,2024-11-05,2025-11-05
+E002,Jane Doe,HR-002,Preventing Harassment & Discrimination,Not Started,2024-11-05,,2025-11-05
+E002,Jane Doe,SEC-010,Cyber-Security Awareness Basics,In Progress,2024-11-01,,2025-05-01
+E002,Jane Doe,SEC-230,Secure Coding for Python & TypeScript,Completed,2025-01-05,2025-01-20,
+E002,Jane Doe,LEAD-101,Technical Leadership Essentials,Not Started,2025-02-01,,
+E003,Carlos Rodriguez,HR-001,Workplace Ethics & Code of Conduct,Not Started,2025-05-30,,2025-06-30
+E003,Carlos Rodriguez,HR-002,Preventing Harassment & Discrimination,Not Started,2025-05-30,,2025-06-30
+E003,Carlos Rodriguez,SEC-010,Cyber-Security Awareness Basics,Not Started,2025-04-15,,2025-05-15
+E003,Carlos Rodriguez,AI-201,Practical Prompt Engineering,Not Started,2025-04-01,,
+E004,Dana Peterson,HR-001,Workplace Ethics & Code of Conduct,Completed,2025-01-28,2025-02-28,2026-02-28
+E004,Dana Peterson,HR-002,Preventing Harassment & Discrimination,Completed,2025-01-28,2025-02-28,2026-02-28
+E004,Dana Peterson,SEC-010,Cyber-Security Awareness Basics,Completed,2025-02-05,2025-03-05,2025-09-05
+E004,Dana Peterson,CLD-150,Cloud-Native DevOps with GitHub Actions,In Progress,2025-03-15,,
+E005,Evelyn Lee,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-07-12,2024-08-12,2025-08-12
+E005,Evelyn Lee,HR-002,Preventing Harassment & Discrimination,Completed,2024-07-12,2024-08-12,2025-08-12
+E005,Evelyn Lee,SEC-010,Cyber-Security Awareness Basics,Completed,2025-03-10,2025-04-10,2025-10-10
+E005,Evelyn Lee,DS-310,Vector Databases & RAG Patterns,Completed,2025-03-16,2025-04-16,
+E005,Evelyn Lee,LEAD-101,Technical Leadership Essentials,Completed,2025-01-20,2025-02-20,
+E006,Frank Miller,HR-001,Workplace Ethics & Code of Conduct,In Progress,2025-04-15,,2025-05-31
+E006,Frank Miller,HR-002,Preventing Harassment & Discrimination,In Progress,2025-04-15,,2025-05-31
+E006,Frank Miller,SEC-010,Cyber-Security Awareness Basics,Not Started,2025-04-30,,2025-05-31
+E006,Frank Miller,SEC-230,Secure Coding for Python & TypeScript,Not Started,2025-04-01,,
+E007,Grace Kim,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-11-01,2024-12-01,2025-12-01
+E007,Grace Kim,HR-002,Preventing Harassment & Discrimination,Completed,2024-11-01,2024-12-01,2025-12-01
+E007,Grace Kim,SEC-010,Cyber-Security Awareness Basics,Completed,2025-03-01,2025-04-01,2025-10-01
+E007,Grace Kim,AI-201,Practical Prompt Engineering,Completed,2024-11-15,2024-12-15,
+E007,Grace Kim,CLD-150,Cloud-Native DevOps with GitHub Actions,Completed,2025-02-10,2025-03-10,
+E008,Henry Nguyen,HR-001,Workplace Ethics & Code of Conduct,Completed,2025-02-20,2025-03-20,2026-03-20
+E008,Henry Nguyen,HR-002,Preventing Harassment & Discrimination,Completed,2025-02-20,2025-03-20,2026-03-20
+E008,Henry Nguyen,SEC-010,Cyber-Security Awareness Basics,In Progress,2025-03-20,,2025-09-20
+E008,Henry Nguyen,DS-310,Vector Databases & RAG Patterns,Not Started,2025-04-01,,
+E009,Isabella Garcia,HR-001,Workplace Ethics & Code of Conduct,Not Started,2025-06-30,,2025-07-31
+E009,Isabella Garcia,HR-002,Preventing Harassment & Discrimination,Not Started,2025-06-30,,2025-07-31
+E009,Isabella Garcia,SEC-010,Cyber-Security Awareness Basics,Not Started,2025-06-30,,2025-07-31
+E009,Isabella Garcia,LEAD-101,Technical Leadership Essentials,In Progress,2025-04-15,,
+E010,Jason Brown,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-12-15,2025-01-15,2026-01-15
+E010,Jason Brown,HR-002,Preventing Harassment & Discrimination,Completed,2024-12-15,2025-01-15,2026-01-15
+E010,Jason Brown,SEC-010,Cyber-Security Awareness Basics,Completed,2025-02-15,2025-03-15,2025-09-15
+E010,Jason Brown,SEC-230,Secure Coding for Python & TypeScript,Completed,2025-02-20,2025-03-20,
+E010,Jason Brown,CLD-150,Cloud-Native DevOps with GitHub Actions,Not Started,2025-04-10,,
+E011,Jeff Scott,HR-001,Workplace Ethics & Code of Conduct,Completed,2025-04-29,2025-04-29,2026-04-29
+E011,Jeff Scott,HR-002,Preventing Harassment & Discrimination,Completed,2025-04-29,2025-04-29,2026-04-29
+E011,Jeff Scott,SEC-010,Cyber-Security Awareness Basics,Completed,2025-04-29,2025-04-29,2025-10-29
+E011,Jeff Scott,SEC-230,Course SEC-230,Completed,2025-04-29,2025-04-29,
+E012,Michael Johnson,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E012,Michael Johnson,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E012,Michael Johnson,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E013,Emily Williams,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E013,Emily Williams,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E013,Emily Williams,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E014,Daniel Brown,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E014,Daniel Brown,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E014,Daniel Brown,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E015,Sophia Martinez,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E015,Sophia Martinez,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E015,Sophia Martinez,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E016,Alexander Davis,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E016,Alexander Davis,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E016,Alexander Davis,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E017,Olivia Wilson,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E017,Olivia Wilson,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E017,Olivia Wilson,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E018,William Taylor,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E018,William Taylor,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E018,William Taylor,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E019,Ava Thomas,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E019,Ava Thomas,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E019,Ava Thomas,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E020,James Anderson,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E020,James Anderson,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E020,James Anderson,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E021,Emma Jackson,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E021,Emma Jackson,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E021,Emma Jackson,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29

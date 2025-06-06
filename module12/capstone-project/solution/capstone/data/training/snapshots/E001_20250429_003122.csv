@@ -1,0 +1,6 @@
+employee_id,employee_name,course_id,course_name,status,enrolled_date,completion_date,due_date
+E001,Alice Johnson,HR-001,Workplace Ethics & Code of Conduct,Completed,2024-05-10,2024-06-10,2025-06-10
+E001,Alice Johnson,HR-002,Preventing Harassment & Discrimination,Completed,2024-05-10,2024-06-10,2025-06-10
+E001,Alice Johnson,SEC-010,Cyber-Security Awareness Basics,Completed,2025-01-02,2025-01-21,2025-08-01
+E001,Alice Johnson,AI-201,Practical Prompt Engineering,Completed,2025-02-15,2025-03-15,
+E001,Alice Johnson,DS-310,Vector Databases & RAG Patterns,In Progress,2025-04-01,,

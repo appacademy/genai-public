@@ -1,0 +1,9 @@
+course_code,title,description,format,category,compliance_goal,renewal_period
+AI-201,Practical Prompt Engineering,"Boosts day-to-day productivity with Gemma & other LLMs; covers reusable prompt templates, chain-of-thought, and guardrails.","3 hr live workshop + 2-hr lab",Elective,,
+SEC-230,Secure Coding for Python & TypeScript,Mitigates the top 10 OWASP risks in our micro-services stack.,"4-module async course (≈6 hrs)",Elective,,
+DS-310,Vector Databases & RAG Patterns,Hands-on with FAISS & LanceDB; builds the skills behind our internal search tools.,"Self-paced, 8 hrs, capstone mini-project",Elective,,
+CLD-150,Cloud-Native DevOps with GitHub Actions,"CI/CD pipelines, infrastructure-as-code, and secrets management for on-prem clusters.","Blended: 2 live sessions + sandbox labs",Elective,,
+LEAD-101,Technical Leadership Essentials,"Helps senior devs transition to team leads—one-on-ones, feedback loops, delivery forecasting.","5 weekly cohorts, 1 hr each",Elective,,
+HR-001,Workplace Ethics & Code of Conduct,"Covers confidentiality, conflict of interest, and reporting channels.",Online course,Mandatory,"Meets company ethics standards",12 months
+HR-002,Preventing Harassment & Discrimination,Meets federal & SC state training mandates; includes bystander intervention.,Online course,Mandatory,"Meets federal & state requirements",12 months
+SEC-010,Cyber-Security Awareness Basics,"Phishing simulations, password hygiene, and data-handling policy.",Online course,Mandatory,"Ensures security compliance",6 months

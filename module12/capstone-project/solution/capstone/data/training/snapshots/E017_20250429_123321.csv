@@ -1,0 +1,4 @@
+employee_id,employee_name,course_id,course_name,status,enrolled_date,completion_date,due_date
+E017,Olivia Wilson,HR-001,Workplace Ethics & Code of Conduct,Enrolled,2025-04-29,,2026-04-29
+E017,Olivia Wilson,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E017,Olivia Wilson,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29

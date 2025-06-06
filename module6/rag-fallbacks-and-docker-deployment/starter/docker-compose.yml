@@ -1,0 +1,7 @@
+# TODO: Create a docker-compose.yml file for the HA RAG system
+
+# TODO: Define a service named 'ha-rag'
+
+# TODO: Build the image from the current directory
+
+# TODO: Configure it to run in interactive mode

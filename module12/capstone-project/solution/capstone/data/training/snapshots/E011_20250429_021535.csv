@@ -1,0 +1,5 @@
+employee_id,employee_name,course_id,course_name,status,enrolled_date,completion_date,due_date
+E011,Jeff Scott,HR-001,Workplace Ethics & Code of Conduct,Completed,2025-04-29,2025-04-29,2026-04-29
+E011,Jeff Scott,HR-002,Preventing Harassment & Discrimination,Enrolled,2025-04-29,,2026-04-29
+E011,Jeff Scott,SEC-010,Cyber-Security Awareness Basics,Enrolled,2025-04-29,,2025-10-29
+E011,Jeff Scott,SEC-230,Course SEC-230,Enrolled,2025-04-29,,

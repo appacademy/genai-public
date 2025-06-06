@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  ha-rag-system:
+    image: ha-rag-system  # This sets the image name
+    build:
+      context: .
+      dockerfile: Dockerfile
+    stdin_open: true  # equivalent to -i
+    tty: true         # equivalent to -t
