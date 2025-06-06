@@ -1,0 +1,100 @@
+{
+  "policies": [
+    "Priority 1 (urgent) issues receive immediate attention from senior support staff",
+    "We aim for first response within 15 minutes for urgent issues",
+    "Dedicated incident manager is assigned for urgent technical issues",
+    "Regular status updates every 30 minutes for ongoing urgent issues",
+    "Post-incident reports are provided for major system issues",
+    "Urgent issues can be reported 24/7 via our emergency hotline at 1-800-555-9999",
+    "Executive escalation is available for critical business-impacting issues",
+    "Urgent issues are tracked with special attention until fully resolved",
+    "Priority handling does not incur additional costs for eligible issues",
+    "We distinguish between true emergencies and preference for faster service"
+  ],
+  "emergency_procedures": {
+    "system_outage": {
+      "definition": "Complete or partial inability to access core system functionality affecting multiple users",
+      "response_time": "Immediate (within 15 minutes)",
+      "escalation_path": "L1 Support → On-call Engineer → CTO",
+      "communication": "Status page updates every 30 minutes, email notifications to affected customers",
+      "resolution_target": "4 hours or less"
+    },
+    "data_security_incident": {
+      "definition": "Potential or confirmed unauthorized access to customer data",
+      "response_time": "Immediate (within 15 minutes)",
+      "escalation_path": "Security Team → CISO → Legal → CEO",
+      "communication": "Direct contact with affected customers, compliance with notification regulations",
+      "resolution_target": "Containment within 2 hours, full resolution varies by incident"
+    },
+    "payment_processing_failure": {
+      "definition": "Inability to process customer payments or critical billing functions",
+      "response_time": "Within 30 minutes",
+      "escalation_path": "Billing Support → Finance Team → Payment Provider Liaison",
+      "communication": "Email notification to affected customers, status page update",
+      "resolution_target": "6 hours or less"
+    },
+    "critical_feature_failure": {
+      "definition": "Core feature unavailable or malfunctioning for multiple Enterprise customers",
+      "response_time": "Within 30 minutes",
+      "escalation_path": "L2 Support → Product Engineering → Product Manager",
+      "communication": "Direct contact with affected Enterprise customers, status updates every hour",
+      "resolution_target": "8 hours or less"
+    },
+    "account_lockout": {
+      "definition": "Enterprise customer unable to access their account due to security or system issues",
+      "response_time": "Within 30 minutes",
+      "escalation_path": "L2 Support → Security Team → Account Manager",
+      "communication": "Direct contact with affected customer, regular updates until resolved",
+      "resolution_target": "2 hours or less"
+    }
+  },
+  "common_issues": {
+    "Account compromise": "1) Immediately secure the account by temporarily suspending access. 2) Verify the customer's identity through secure channels. 3) Investigate the extent of the compromise and any data access. 4) Reset credentials and enable additional security measures. 5) Provide detailed guidance on securing their account. 6) Follow up with security recommendations and monitoring.",
+    
+    "Critical data loss": "1) Determine the scope and nature of the data loss. 2) Identify if the data can be recovered from backups. 3) Initiate immediate data recovery procedures if possible. 4) Involve engineering team for specialized recovery if needed. 5) Provide transparent updates on recovery status and timeline. 6) Implement preventative measures to avoid future occurrences.",
+    
+    "Payment processing emergency": "1) Verify the specific payment processing issue and its impact. 2) Determine if it's affecting multiple customers or is isolated. 3) Engage the finance team and payment processor immediately. 4) Implement temporary workarounds if available. 5) Provide clear timeline for resolution. 6) Follow up with confirmation once systems are operational.",
+    
+    "Service outage": "1) Confirm the extent of the outage and affected services. 2) Engage the on-call engineering team immediately. 3) Identify the root cause and estimated time to resolution. 4) Provide regular status updates through appropriate channels. 5) Implement resolution and verify service restoration. 6) Follow up with a post-incident report for Enterprise customers.",
+    
+    "Urgent compliance issue": "1) Understand the specific compliance requirement or violation. 2) Engage legal and compliance teams immediately. 3) Determine immediate actions needed to address the compliance concern. 4) Implement required changes with appropriate urgency. 5) Document all actions taken for compliance records. 6) Provide formal documentation of resolution if required.",
+    
+    "VIP customer escalation": "1) Acknowledge the escalation immediately and express understanding of its importance. 2) Engage the appropriate senior team member or executive sponsor. 3) Develop a specific action plan with clear ownership and timelines. 4) Provide white-glove communication throughout the resolution process. 5) Ensure executive visibility on progress. 6) Follow up after resolution to confirm satisfaction.",
+    
+    "Critical integration failure": "1) Identify which mission-critical integration has failed. 2) Determine if the issue is on our side or the integration partner's side. 3) Engage the appropriate technical team and integration partner if necessary. 4) Implement temporary workarounds if possible. 5) Provide clear timeline for full resolution. 6) Test thoroughly before confirming resolution."
+  },
+  "faqs": [
+    {
+      "question": "What qualifies as an urgent or priority issue?",
+      "answer": "Priority issues typically include: 1) Complete system outages affecting multiple users, 2) Data security incidents or potential breaches, 3) Critical feature failures impacting core business operations, 4) Account compromise or unauthorized access, 5) Payment processing failures affecting multiple transactions, or 6) Compliance-related emergencies with legal implications. Individual feature requests, non-critical bugs, or preference-based issues generally don't qualify as urgent."
+    },
+    {
+      "question": "How do I report an urgent issue?",
+      "answer": "Enterprise customers can report urgent issues 24/7 through our emergency hotline at 1-800-555-9999, through the 'Report Critical Issue' button in your account dashboard, or by emailing urgent@ourcompany.com. Pro customers can use the emergency chat option available in the product. Please include as much detail as possible about the issue, including error messages, affected functionality, and business impact."
+    },
+    {
+      "question": "What response time can I expect for urgent issues?",
+      "answer": "For confirmed Priority 1 (urgent) issues, Enterprise customers can expect initial response within 15 minutes, with regular updates every 30 minutes until resolution. Pro customers can expect initial response within 30 minutes during business hours and within 2 hours outside business hours. Resolution times vary based on complexity, but we work continuously on urgent issues until they're resolved."
+    },
+    {
+      "question": "Who handles urgent support requests?",
+      "answer": "Urgent support requests are handled by our senior support engineers and escalated immediately to the appropriate specialized team. For system-wide issues, our on-call engineering team is engaged. For security incidents, our security response team takes the lead. Each urgent issue is assigned a dedicated incident manager who coordinates the response and provides regular updates."
+    },
+    {
+      "question": "Is there an additional cost for priority support?",
+      "answer": "There is no additional cost for legitimate urgent issue handling. Priority support for true emergencies is included in Pro and Enterprise subscriptions. However, we do distinguish between actual emergencies and preference for faster service. Repeatedly marking non-urgent issues as urgent may result in coaching about appropriate priority levels."
+    },
+    {
+      "question": "What information should I provide when reporting an urgent issue?",
+      "answer": "When reporting an urgent issue, please provide: 1) A clear description of the problem, 2) When it started occurring, 3) Error messages or screenshots, 4) Steps to reproduce the issue, 5) The business impact and urgency level, 6) The number of users affected, 7) Any troubleshooting steps already attempted, and 8) The best contact information for updates. The more information you provide, the faster we can address the issue."
+    },
+    {
+      "question": "Do you provide post-incident reports?",
+      "answer": "Yes, for major system incidents and security-related issues, we provide detailed post-incident reports to Enterprise customers. These reports include a timeline of the incident, root cause analysis, resolution details, and preventative measures implemented to avoid similar issues in the future. Reports are typically delivered within 5 business days after incident resolution."
+    },
+    {
+      "question": "How do I escalate an issue if I'm not satisfied with the response?",
+      "answer": "If you feel an issue isn't receiving appropriate attention, Enterprise customers can contact their dedicated account manager or use the executive escalation process by emailing escalations@ourcompany.com. Pro customers can request escalation through support by asking for a 'supervisor review.' Please include your case number and the reason for escalation. All escalation requests are reviewed by a support manager within 1 hour during business hours."
+    }
+  ]
+}

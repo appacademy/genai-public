@@ -1,0 +1,6 @@
+colorlog==6.7.0
+python-dotenv==1.0.0
+tenacity==8.2.3
+circuitbreaker==1.4.0
+pydantic==1.10.8
+requests==2.32.3

@@ -1,0 +1,5 @@
+employee_id,employee_name,course_code,status,completion_date,due_date,enrolled_date
+E011,Scott C.,HR-001,Enrolled,,2026-04-29,2025-04-29
+E011,Scott C.,HR-002,Enrolled,,2026-04-29,2025-04-29
+E011,Scott C.,SEC-010,Enrolled,,2025-10-29,2025-04-29
+E011,Scott C.,AI-201,Enrolled,,,2025-04-29

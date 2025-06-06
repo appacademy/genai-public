@@ -1,0 +1,4 @@
+langchain-core==0.3.48
+langgraph==0.3.21
+requests==2.32.3
+python-dotenv==1.0.1
